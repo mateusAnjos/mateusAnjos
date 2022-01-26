@@ -1,8 +1,9 @@
-### Olá! Eu sou Mateus Anjos! 👋
+### Hi! I'm Mateus Anjos! 👋
 
 
-- 🌱 Atualmente estudo Javascript e começarei PHP!
-- 👯 Busco vagas de Dev frontend Jr. 
+- 🌱 Currently studying React and Next.js
+- 👯 Looking for Jr. Frontend jobs 
+- 📚 Stack: HTML, CSS, JS, Booststrap, adding React soon
 - 🏡 São Paulo - SP
 
 <div align="center" style="display: inline-block">
@@ -17,6 +18,7 @@
   <img align="center" alt="mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="mateus-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
   
   ##
