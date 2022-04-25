@@ -31,5 +31,5 @@
   <a href="https://twitter.com/mateuslimao_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
     
   </div>
-  
-  ![Snake animation](https://github.com/mateusAnjos/mateusAnjos/blob/output/github-contribution-grid-snake.svg)
+  <!-- código abaixo inclui um Snake andando por suas contribuições-->
+ <!--![Snake animation](https://github.com/mateusAnjos/mateusAnjos/blob/output/github-contribution-grid-snake.svg)-->
