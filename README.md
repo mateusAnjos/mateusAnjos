@@ -1,9 +1,9 @@
 ### Hi! I'm Mateus Anjos! 👋
 
 
-- 🌱 Currently studying React and Next.js
+- 🌱 Frontend Developer
 - 👯 Looking for Jr. Frontend jobs 
-- 📚 Stack: HTML, CSS, JS, Booststrap, adding React soon
+- 📚 Stack: HTML, CSS, JS, React, Tailwind, Booststrap
 - 🏡 São Paulo - SP
 
 <div align="center" style="display: inline-block">
